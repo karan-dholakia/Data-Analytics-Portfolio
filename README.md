@@ -1,4 +1,4 @@
- #Data Analytics portfolio
+# Data Analytics portfolio
 
 Repository containing portfolio of data Analytics projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter notebooks, and Tableau Dashboard files .
 
