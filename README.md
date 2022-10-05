@@ -1,0 +1,2 @@
+# Superstore-Sales-Data-Visualization
+I have build a Tableau Dashboard to visualize the Sales Data of the Super Market Store which help the stakeholders to find the insights &amp; make the business decisions. To see the dashboard please click on the link https://public.tableau.com/views/SalesPerformanceDashboard_16241163168440/SalesDashboard?:language=en-US&amp;:display_count=n&amp;:origin=viz_share_link
